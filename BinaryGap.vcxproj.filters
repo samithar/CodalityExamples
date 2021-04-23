@@ -33,5 +33,14 @@
     <ClCompile Include="TapeEquilibrium.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FrogRiverOne.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="distinct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
