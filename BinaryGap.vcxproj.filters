@@ -45,5 +45,14 @@
     <ClCompile Include="MaxProductofThree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Brackets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FIsh-Copy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacchi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
